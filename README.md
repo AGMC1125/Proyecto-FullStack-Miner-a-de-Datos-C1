@@ -2,7 +2,7 @@
 
 **Alumno:** Ángel Gabriel Martínez Castillo | **Matrícula:** 233381  
 **Curso:** Minería de Datos · Ingeniería de Software · 9º-D   
-**Profesor:** Ramsés Alejandro Camas Nájera, M.Sc.  
+**Profesor:** Ramsés Alejandro Camas Nájera.  
 **Dataset:** Inside Airbnb — Ciudad de México (27,051 listados, septiembre 2025)
 
 ---
