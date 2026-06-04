@@ -1,7 +1,7 @@
 # Pipeline Full Stack de Minería de Datos — Airbnb CDMX
 
 **Alumno:** Ángel Gabriel Martínez Castillo | **Matrícula:** 233381  
-**Curso:** Minería de Datos · Ingeniería de Software · 9.º semestre · UPCh · 2026A  
+**Curso:** Minería de Datos · Ingeniería de Software · 9º-D
 **Profesor:** Ramsés Alejandro Camas Nájera, M.Sc.  
 **Dataset:** Inside Airbnb — Ciudad de México (27,051 listados, septiembre 2025)
 
